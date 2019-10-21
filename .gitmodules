@@ -1,0 +1,3 @@
+[submodule "vendor/elm-playground"]
+	path = vendor/elm-playground
+	url = https://github.com/pcantrell/elm-playground.git
